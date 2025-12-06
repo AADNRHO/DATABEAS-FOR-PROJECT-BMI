@@ -1,6 +1,6 @@
 ﻿namespace Form3
 {
-    partial class Form1
+    partial class Form3
     {
         /// <summary>
         /// Required designer variable.
@@ -103,4 +103,5 @@
         private System.Windows.Forms.DataGridView dataGridRecords; // <--- تعريف نهائي وحيد
     }
 }
+
 
