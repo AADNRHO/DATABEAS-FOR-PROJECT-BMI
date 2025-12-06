@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace Form3
 {
-    public partial class Form1 : Form
+    public partial class Form3 : Form
     {
-        public Form1()
+        public Form3()
         {
             InitializeComponent();
-            this.Load += Form1_Load;
+            this.Load += Form3_Load;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form3_Load(object sender, EventArgs e)
         {
             LoadRecords();
         }
@@ -82,3 +82,4 @@ namespace Form3
 
 
    
+
