@@ -103,3 +103,4 @@
         private System.Windows.Forms.DataGridView dataGridRecords; // <--- تعريف نهائي وحيد
     }
 }
+
